@@ -23,10 +23,4 @@ It generates random quotes on button click and updates them on the screen dynami
 
 ---
 
-## 📁 Folder Structure
 
-/quote Generator 
-│── index.html
-│── style.css
-│── app.js
-└── README.md
