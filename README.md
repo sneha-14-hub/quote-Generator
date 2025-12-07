@@ -10,7 +10,7 @@ It generates random quotes on button click and updates them on the screen dynami
 - Generates random quotes instantly  
 - Simple, lightweight, and fast  
 - Clean UI using HTML & CSS  
-- JavaScript-powered logic (app.js)  
+- JavaScript-powered logic (index.js)  
 - Perfect beginner-friendly project
 
 ---
@@ -19,7 +19,7 @@ It generates random quotes on button click and updates them on the screen dynami
 
 - **HTML** – Structure of the webpage  
 - **CSS** – Styling and layout  
-- **JavaScript (app.js)** – Quote generation logic
+- **JavaScript (index.js)** – Quote generation logic
 
 ---
 
